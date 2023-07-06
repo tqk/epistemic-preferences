@@ -1,0 +1,8 @@
+sas_plan
+pdkb-domain.pddl*
+pdkb-problem.pddl*
+.problem-cache
+execution.details
+pdkb-plan.*
+data/
+runs/

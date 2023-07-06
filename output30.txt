@@ -1,0 +1,63 @@
+Compiling corridor-doxastic---prob_1_3...done in 0.49 seconds
+added preferences of type "truth" in 0.03 seconds
+added preferences of type "oblivious" in 0.03 seconds
+added preferences of type "misconception" in 0.03 seconds
+added preferences of type "conscious" in 0.03 seconds
+
+Solving with lama...done.
+Compiling corridor-doxastic---prob_1_5...done in 0.54 seconds
+added preferences of type "truth" in 0.04 seconds
+added preferences of type "oblivious" in 0.03 seconds
+added preferences of type "misconception" in 0.03 seconds
+added preferences of type "conscious" in 0.03 seconds
+
+Solving with lama...done.
+Compiling corridor-doxastic---prob_1_7...done in 0.53 seconds
+added preferences of type "truth" in 0.04 seconds
+added preferences of type "oblivious" in 0.03 seconds
+added preferences of type "misconception" in 0.03 seconds
+added preferences of type "conscious" in 0.03 seconds
+
+Solving with lama...done.
+Compiling grapevine-doxastic---prob-4ag-2g-1d...done in 0.99 seconds
+added preferences of type "truth" in 0.04 seconds
+added preferences of type "oblivious" in 0.04 seconds
+added preferences of type "misconception" in 0.04 seconds
+added preferences of type "conscious" in 0.04 seconds
+
+Solving with lama...done.
+Compiling grapevine-doxastic---prob-4ag-4g-1d...done in 1.07 seconds
+added preferences of type "truth" in 0.04 seconds
+added preferences of type "oblivious" in 0.04 seconds
+added preferences of type "misconception" in 0.04 seconds
+added preferences of type "conscious" in 0.04 seconds
+
+Solving with lama...done.
+Compiling grapevine-doxastic---prob-4ag-8g-1d...done in 1.07 seconds
+added preferences of type "truth" in 0.04 seconds
+added preferences of type "oblivious" in 0.04 seconds
+added preferences of type "misconception" in 0.04 seconds
+added preferences of type "conscious" in 0.04 seconds
+
+Solving with lama...done.
+Compiling grapevine-doxastic---prob-8ag-2g-1d...done in 5.01 seconds
+added preferences of type "truth" in 0.09 seconds
+added preferences of type "oblivious" in 0.10 seconds
+added preferences of type "misconception" in 0.09 seconds
+added preferences of type "conscious" in 0.10 seconds
+
+Solving with lama...done.
+Compiling grapevine-doxastic---prob-8ag-4g-1d...done in 5.51 seconds
+added preferences of type "truth" in 0.09 seconds
+added preferences of type "oblivious" in 0.10 seconds
+added preferences of type "misconception" in 0.10 seconds
+added preferences of type "conscious" in 0.10 seconds
+
+Solving with lama...done.
+Compiling grapevine-doxastic---prob-8ag-8g-1d...done in 5.17 seconds
+added preferences of type "truth" in 0.09 seconds
+added preferences of type "oblivious" in 0.10 seconds
+added preferences of type "misconception" in 0.10 seconds
+added preferences of type "conscious" in 0.09 seconds
+
+Solving with lama...done.
